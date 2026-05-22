@@ -123,6 +123,18 @@ In the code block, it says
 But should have been "weaker or stronger" not "stronger or weaker"
 
 &nbsp;
+## Chapter 5
+
+**Page 143**
+
+The text says that the covariance between two features is calculated
+"on the population level," but the displayed formula uses the sample
+covariance normalization term $1/(n-1)$. The wording should be
+"on the sample level."
+
+Source: [#229](https://github.com/rasbt/machine-learning-book/issues/229)
+
+&nbsp;
 ## Chapter 6
 
 **Page 185**
